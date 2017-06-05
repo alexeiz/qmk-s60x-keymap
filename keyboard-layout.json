@@ -1,0 +1,156 @@
+[
+  [
+    {
+      "a": 0
+    },
+    "Esc\n~\n\n\n`",
+    "!\n1\n\n\nF1",
+    "@\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "^\n6\n\n\nF6",
+    "&\n7\n\n\nF7",
+    "*\n8\n\n\nF8",
+    "(\n9\n\n\nF9",
+    ")\n0\n\n\nF10",
+    "_\n-\n\n\nF11",
+    "+\n=\n\n\nF12",
+    {
+      "w": 2
+    },
+    "Backspace\n\n\n\nDel"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "a": 0
+    },
+    "Q\n\n\n\nVol-",
+    "W\n\n\n\nVol+",
+    "E\n\n\n\nEnd",
+    {
+      "a": 4
+    },
+    "R",
+    "T",
+    "Y",
+    {
+      "a": 0
+    },
+    "U\n\n\n\nPgUp",
+    "I\n\n\n\nIns",
+    "O\n\n\n\nPrtSc",
+    "P\n\n\n\n↑",
+    "{\n[\n\n\nLED-",
+    "}\n]\n\n\nLED+",
+    {
+      "w": 1.5
+    },
+    "|\n\\\n\n\nLED Tog"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Ctrl\n\n\n\nCaps Lock",
+    "A\n\n\n\nHome",
+    {
+      "a": 4
+    },
+    "S",
+    {
+      "a": 0
+    },
+    "D\n\n\n\nPgDn",
+    {
+      "a": 4
+    },
+    "F",
+    "G",
+    {
+      "a": 0
+    },
+    "H\n\n\n\n←",
+    "J\n\n\n\n↓",
+    "K\n\n\n\n↑",
+    "L\n\n\n\n→",
+    {
+      "a": 4
+    },
+    ":\n;",
+    "\"\n'",
+    {
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "a": 0
+    },
+    "Z\n\n\n\nR-Tog",
+    "X\n\n\n\nR-Mod",
+    "C\n\n\n\nR-Hui",
+    "V\n\n\n\nR-Hud",
+    "B\n\n\n\nR-Sai",
+    "N\n\n\n\nR-Sad",
+    "M\n\n\n\nR-Vai",
+    "<\n,\n\n\nR-Vad",
+    {
+      "a": 4
+    },
+    ">\n.",
+    "?\n/",
+    {
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 0,
+      "w": 1.25
+    },
+    "Win\n\n\n\nMenu",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w2": 1.25
+    },
+    "Ctrl"
+  ]
+]
