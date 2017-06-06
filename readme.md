@@ -26,8 +26,8 @@ These are the steps to compile and flash this keymap.  It assumes that you have
 a Linux distro and basic development tools.
 
 0. Install prerequisites:
-  * gcc-avr
-  * avr-libc
+   * gcc-avr
+   * avr-libc
 1. Clone the QMK Firmware repository:
 
         $ git clone --recursive https://github.com/qmk/qmk_firmware.git
