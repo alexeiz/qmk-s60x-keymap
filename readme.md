@@ -26,7 +26,7 @@ These are the steps to compile and flash this keymap.  It assumes that you have
 a Linux distro and basic development tools.
 
 0. Install prerequisites:
-   * gcc-avr
+   * gcc-avr (avr-gcc on Fedora)
    * avr-libc
 1. Clone the QMK Firmware repository:
 
@@ -40,7 +40,7 @@ a Linux distro and basic development tools.
 3. Build all firmwares for S60-X including this keymap layout with RGB support:
 
         $ cd qmk_firmware/keyboards/s60_x
-        $ make rgb
+        $ SKIP_GIT=1 make rgb
 
    * Result: `s60_x_rgb_my_layout.hex` firmware file in the root `qmk_firmware`
      directory
